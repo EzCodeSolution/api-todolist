@@ -3,11 +3,18 @@ Make by Thanaha
 Github EzcodeSolution 😎
 
     npm install 
+    sequelize db:migrate
 
-============================
-happy hacking 
+ENV Need
 
-============================
+ - nodeJs
+ - mysql maria db
+ - sequelize
+ - database name thatodolist
+ - configyour database config in your  config/config.js
+
+
+   
 
 API Document 
 
